@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea0fc139-a8f3-47e7-b2ad-c5ffa6157d02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/appherbolario/appherbolario/util/PHealCtrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/appherbolario/appherbolario/util/PVenomCtrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/appherbolario/UI/pheal.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/appherbolario/UI/pvenom.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/configuration/database.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/App_Herbolario.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/appherbolario/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696507142901</updated>
-      <workItem from="1696507144293" duration="594000" />
+      <workItem from="1696507144293" duration="1157000" />
     </task>
     <servers />
   </component>
