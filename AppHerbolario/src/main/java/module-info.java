@@ -6,6 +6,6 @@ module com.appherbolario.appherbolario {
                             
     opens com.appherbolario.appherbolario to javafx.fxml;
     exports com.appherbolario.appherbolario;
-    exports com.appherbolario.appherbolario.util;
-    opens com.appherbolario.appherbolario.util to javafx.fxml;
+
+
 }

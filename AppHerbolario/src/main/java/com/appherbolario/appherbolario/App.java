@@ -1,20 +1,21 @@
-package com.appherbolario.appherbolario.util;
+package com.appherbolario.appherbolario;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
+import javafx.scene.paint.Color;
 import javafx.stage.Stage;
+import javafx.stage.StageStyle;
 
 import java.io.IOException;
 
 public class App extends Application {
     @Override
     public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource("Main.fxml"));
+        FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource("src/main/resources/Main.fxml"));
         Scene scene = new Scene(fxmlLoader.load());
         scene.setFill(Color.TRANSPARENT);
         stage.initStyle(StageStyle.TRANSPARENT);
-        stage.setTitle("Hello!");
         stage.setScene(scene);
         stage.show();
     }

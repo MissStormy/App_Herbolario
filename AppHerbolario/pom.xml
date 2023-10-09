@@ -49,6 +49,11 @@
   </dependencies>
 
   <build>
+    <resources>
+      <resource>
+        <directory>src/main/resources</directory>
+      </resource>
+    </resources>
         <plugins>
             <plugin>
         <groupId>org.apache.maven.plugins</groupId>
@@ -68,7 +73,7 @@
             <!-- Default configuration for running with: mvn clean javafx:run -->
             <id>default-cli</id>
             <configuration>
-              <mainClass>com.appherbolario.appherbolario/com.appherbolario.appherbolario.util.App</mainClass>
+              <mainClass>com.appherbolario.appherbolario/com.appherbolario.appherbolario.App</mainClass>
               <launcher>app</launcher>
               <jlinkZipName>app</jlinkZipName>
               <jlinkImageName>app</jlinkImageName>
